@@ -1,0 +1,13 @@
+.result.perfect {
+    font-size: 4rem;
+  }
+
+#results {
+  display: flex;
+  column-gap: 1rem;
+  flex-wrap: wrap;
+}
+
+dl {
+  font-size: 1rem;
+}
